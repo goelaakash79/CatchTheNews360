@@ -6,6 +6,7 @@ import android.support.test.runner.AndroidJUnit4;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
+//this is also good
 
 import static org.junit.Assert.*;
 
